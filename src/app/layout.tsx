@@ -6,7 +6,7 @@ import { cn } from "@/lib/utils";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Pixel Panda",
+  title: "Digital Hippo",
   description: "A Digital Marketplace for all of your needs.",
 };
 
